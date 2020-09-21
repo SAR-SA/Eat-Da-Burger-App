@@ -73,6 +73,7 @@ ul {
   border-width: 10px;
   border-color: rgb(0, 0, 0);
   margin-left: 150px;
+  margin-right: 150px;
   overflow-x: hidden; 
   overflow-y: auto; 
 }
@@ -87,6 +88,7 @@ ul {
   border-width: 10px;
   border-color: rgb(0, 0, 0);
   margin-right: 150px;
+  margin-left: 150px;
   overflow-x: hidden; 
   overflow-y: auto; 
 }
