@@ -5,9 +5,7 @@
 - [Description](#descriptiongo)
 - [Installation Instructions](#installgo)
 - [Usage](#usagego)
-- [How to Contribute](#contrigo)
 - [Authors](#authorgo)
-- [How to Run Tests](#testsgo)
 - [Questions](#contactgo)
         
 ## Description<a id='descriptiongo'></a>
@@ -23,13 +21,11 @@ Eat-Da-Burger! is a resturant app that lets users input the names or burgers the
 ## License<a id="licensego"></a>
 
 MIT License
-## Contribution Guidelines<a id="contrigo"></a>
 
 
 ## Authors<a id="authorgo"></a>
 
 Shawn A. Rather
-## Tests<a id="testsgo"></a>
 
 
 ## Questions<a id="contactgo"></a>
